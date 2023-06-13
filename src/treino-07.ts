@@ -38,5 +38,3 @@ if (!andar.passos) {
 if (eNumero) {
     eNumero.toFixed();
 }
-
-console.log("andar", andar);
